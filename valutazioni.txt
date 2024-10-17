@@ -1,0 +1,56 @@
+Sazid 5
+Manca struttura pagina. Alcuni refusi sugli spazi, mancano accenti, errata sintassi br. Manca un grassetto, troppe sottolineature. Nessun corsivo.
+
+Ascione 6.75
+Indentazione codice da rivedere. Errata sintassi br. Alcuni refusi.
+
+Belotta 6.25
+Manca struttura html. Errata sintassi br. A capi doppi quando non richiesti. Confusione accenti acuto e grave. Diversi refusi.
+
+Bonzani 6.50
+Alcuni refusi. Confusione accenti acuto e grave (uno è diventato un apostrofo). Errata sintassi br.
+
+Brancaccio 6.75
+Mancano alcuni spazi. Alcuni refusi. Confusione corsivo e sottolineature.
+
+Cheng 8.75
+Bene sintassi html. Molti refusi.
+
+Faouzi 6.50
+Diversi refusi. Manca struttura html. Manca uno spazio tra paragrafi. Confusione accenti.
+
+Guevarra 7.25
+Manca struttura html. Confusione accenti acuto e grave. Diversi refusi. 
+
+Gumalal 5.75
+Manca struttura html. Errata sintassi br. Non completa la formattazione (circa metà lavoro). Completa assenza corsivi. Diversi refusi.
+
+Esteban 5.75
+Manca struttura html. Errata sintassi br. Spazi non gestiti correttamente. Diversi refusi. 
+
+Nardella 7.00
+Manca struttura html. Errata sintassi br. Confusione accenti acuto e grave. Alcuni refusi.
+
+Ndiaye 6
+Errata sintassi br. Indentazione codice da rivedere. Alcuni refusi. A capi non tutti corretti. 
+
+Nola 6.5
+Alcuni a capo di troppo. Confusione accenti acuto e grave. Molti refusi.
+
+Olchowik 6?
+Errata sintassi br. Alcuni refusi. Mancano spazi tra i paragrafi. Confusione sottolineatura e corsivo.
+
+Othman 7
+Errata sintassi br. Confusione accenti acuto e grave. Manca uno spazio tra i paragrafi.
+
+Pattonieri 4.50
+Lavoro incompleto. Manca struttura html. Errata sintassi br. Ci sono spazi di troppo. Presenta alcuni refusi.
+
+Rossi 6.25?
+Errata sintassi br. Confusione accenti acuto e grave. A capi non gestiti correttamente. Mancano corsivi.
+
+Siniscalchi 9
+Alcuni refusi.
+
+Tampieri 8.00
+Confusione accenti acuto e grave. Spazi non utili tra testo e tag. Manca uno spazio tra i paragrafi. Alcuni refusi.
